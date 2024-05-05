@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+.main_box{
+    font-size: large;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    width: 450px;
+    height: 85px;
+    border: 2px solid black;
+    justify-content: space-around;
+}
